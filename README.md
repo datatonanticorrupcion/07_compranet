@@ -15,8 +15,8 @@ El sistema de contrataciones públicas contiene:
 
 
 ## ¿Qué campos contiene?
-Diccionario de Datos: http://standard.open-contracting.org/latest/es/
-Calidad de Datos: http://www.transparenciapresupuestaria.gob.mx/es/PTP/proceso_contratacion
++ Diccionario de Datos: http://standard.open-contracting.org/latest/es/
++ Calidad de Datos: http://www.transparenciapresupuestaria.gob.mx/es/PTP/proceso_contratacion
 
 ## ¿Quién otorga el dataset?
 Secretaría de la Función Pública
